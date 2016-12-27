@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/com/webservice/soap/beans/Person.java=UTF-8
+encoding//src/com/webservice/soap/service/PersonServiceImpl.java=UTF-8
+encoding//src/com/webservice/soap/service/PersonServiceImplService.java=UTF-8
+encoding//src/com/webservice/soap/service/PersonServiceImplServiceLocator.java=UTF-8
+encoding//src/com/webservice/soap/service/PersonServiceImplSoapBindingStub.java=UTF-8
